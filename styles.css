@@ -1,0 +1,49 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.table2{
+    border-spacing: 0 20px;
+}
+
+.box1{
+    text-align: center;
+    background-color: #8B0000;
+}
+
+.box2{
+    background-color: #FF1493;
+    text-align: center;
+}
+
+.box3{
+    background-color:#A52A2A;
+    text-align: center;
+}
+
+.box_text_color{
+    color: #FFFFFF;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+.td_image_width {
+    width: 570px;
+}
+
+.td_image_width img {
+    width: 570px;
+    height: 400px;
+    display: block;
+}
+
+
+
+.style_text{
+    font: Arial;
+    font-size: 16px;
+    color: #3d3d3d;
+}
